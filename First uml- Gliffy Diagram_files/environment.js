@@ -1,0 +1,3 @@
+var module$environment={};
+(function(){if(!window.GLIFFY)window.GLIFFY={};if(!window.GLIFFY.ENV)window.GLIFFY.ENV={};if(!window.GLIFFY.FEATURES)window.GLIFFY.FEATURES={};GLIFFY.FEATURES.browserTabs=true;GLIFFY.FEATURES.charts=false;GLIFFY.FEATURES.tables=false;GLIFFY.FEATURES.premiumLibraries=true;GLIFFY.FEATURES.umlV1=true;GLIFFY.FEATURES.umlV2=true;GLIFFY.FEATURES.uiV2=true;GLIFFY.FEATURES.uiV3=true;GLIFFY.FEATURES.allowDisableAutosave=true;GLIFFY.FEATURES.mindmaps=false;GLIFFY.FEATURES.popupNotesViewer=true;GLIFFY.FEATURES.svgPrint=
+false;GLIFFY.FEATURES.labsMenu=GLIFFY.FEATURES.charts||GLIFFY.FEATURES.tables||GLIFFY.FEATURES.mindmaps})();
